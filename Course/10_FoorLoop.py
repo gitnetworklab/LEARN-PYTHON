@@ -24,3 +24,6 @@ for subjects in myMarks.keys():
     print(subjects)
 for marks in myMarks.values():
     print(marks)
+
+
+# SECTION-3
